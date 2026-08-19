@@ -1,0 +1,9 @@
+{
+  "name": "small-reset",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small reset page with a simple Node backend.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
